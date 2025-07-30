@@ -1,0 +1,16 @@
+numpy
+pandas
+tqdm
+nltk
+pymupdf
+python-docx
+requests
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+transformers
+langchain-community
+fastapi
+uvicorn
+supabase
+validators
