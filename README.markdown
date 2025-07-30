@@ -19,7 +19,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system for proces
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Virajcreates/Retrieval-Augmented-Generation--RAG--Application>
    cd <repository-directory>
    ```
 
